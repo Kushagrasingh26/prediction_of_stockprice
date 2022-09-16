@@ -130,7 +130,7 @@ st.markdown('''
 # Stock Price App
 Shown are the stock price data for query companies!
 **Credits**
-- App built by [Technocolab team b](https://medium.com/@chanin.nantasenamat) (aka [Data Professor](http://youtube.com/dataprofessor))
+- App built by [Kushagra singh](https://www.linkedin.com/in/kushagra-singh-88bb991b4/)
 - Built in `Python` using `streamlit`,`yfinance`, `cufflinks`, `pandas` and `datetime`
 ''')
 
